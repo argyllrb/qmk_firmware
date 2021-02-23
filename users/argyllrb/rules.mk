@@ -1,0 +1,1 @@
+SRC += minimacro5.c
